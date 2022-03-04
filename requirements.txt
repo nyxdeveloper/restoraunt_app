@@ -1,0 +1,9 @@
+django==3.2
+djangorestframework
+djangorestframework-jwt
+django-filter
+django-cors-headers
+django-grappelli
+Pillow
+psycopg2-binary
+pyfcm
